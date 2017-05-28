@@ -14,7 +14,7 @@ public class StartActivity extends AppCompatActivity {
     }
 
     public void onClickMapa(View view) {
-        Intent intent = new Intent(this, MainActivity.class);
+        Intent intent = new Intent(this, MapsActivity.class);
         startActivity(intent);
         finish();
         //overridePendingTransition(R.anim.push_left_in, R.anim.push_left_out);

@@ -58,5 +58,6 @@
     <string name="unknown_error">Nieznany błąd</string>
     <string name="auth_token">X-Auth-Token</string>
     <string name="title_activity_map">MapActivity</string>
-
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key"></string>
 </resources>
